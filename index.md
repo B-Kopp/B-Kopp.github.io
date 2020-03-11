@@ -4,19 +4,19 @@
 
 ### Projects 
 
-[Swimming: Web Scraping, Data Analysis, Dashboarding](/Swim-Dashboard)
+[Swimming: Web Scraping, Data Analysis, Dashboarding](https://github.com/B-Kopp/Swim-Dashboard)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Baseball: Data Analysis, Modeling](/Baseball)
+[Baseball: Data Analysis, Modeling](https://github.com/B-Kopp/Baseball)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
 ### Coursework
 
-- [Machine Learning](/Machine-Learning)
-- [Big Data for Health](/BD4H)
+- [Machine Learning](https://github.com/B-Kopp/Machine-Learning)
+- [Big Data for Health](https://github.com/B-Kopp/BD4H)
 
 ---
 
