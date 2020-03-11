@@ -9,7 +9,7 @@
 
 ---
 [Baseball: Data Analysis, Modeling](https://github.com/B-Kopp/Baseball)
-<img src="images/war_rating?raw=true"/>
+<img src="images/war_rating.png?raw=true"/>
 
 ---
 
@@ -19,6 +19,10 @@
 - [Big Data for Health](https://github.com/B-Kopp/BD4H)
 
 ---
+
+### Publications
+
+- [Do rhinoviruses follow the neutral theory?](https://collections.lib.utah.edu/details?id=706408)
 
 
 
