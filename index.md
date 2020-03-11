@@ -5,11 +5,11 @@
 ### Projects 
 
 [Swimming: Web Scraping, Data Analysis, Dashboarding](https://github.com/B-Kopp/Swim-Dashboard)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/swim_analytics.png?raw=true"/>
 
 ---
 [Baseball: Data Analysis, Modeling](https://github.com/B-Kopp/Baseball)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/war_rating?raw=true"/>
 
 ---
 
