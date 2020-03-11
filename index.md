@@ -8,7 +8,7 @@
 <img src="images/swim_analytics.png?raw=true"/>
 
 ---
-[Baseball: Data Analysis, Modeling](https://github.com/B-Kopp/Baseball)
+[Baseball: Data Analysis, Modeling](https://github.com/B-Kopp/Baseball/blob/master/2020%20MLB%20WAR%20Model%20Exploration.ipynb)
 <img src="images/war_rating.png?raw=true"/>
 
 ---
